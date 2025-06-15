@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ResumeBuilder
+
+ResumeBuilder is a resume builder.
+
+## ⚒️ Resume Builder
+
+OpenResume's resume builder allows user to create a modern professional resume easily.
 
 ## Getting Started
 
