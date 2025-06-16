@@ -1,0 +1,9 @@
+
+<svg width="150" height="50" viewBox="0 0 350 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <g font-family="Segoe UI, sans-serif" font-weight="bold">
+    <text x="10" y="60" font-size="45" fill="#2E3A59">Resume</text>
+    <text x="175" y="60" font-size="45" fill="#4CAF50">Builder</text>
+  </g>
+</svg>
+
